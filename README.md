@@ -45,8 +45,3 @@ The goal is to demonstrate **data visualization, analysis, and forecasting skill
 - Predictions are illustrative and **not based on real transport data**.  
 
 ---
-
-## 🔮 Future Improvements
-- Integrating real datasets from government/open data portals.  
-- Comparing Hyderabad with other cities.  
-- Using advanced forecasting models (ARIMA, Prophet, LSTMs).
